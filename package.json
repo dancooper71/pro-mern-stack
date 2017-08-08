@@ -1,0 +1,23 @@
+{
+  "name": "pro-mern-stack",
+  "version": "1.0.0",
+  "description": "Intro to MERN Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dancooper71/pro-mern-stack.git"
+  },
+  "author": "Yue Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dancooper71/pro-mern-stack/issues"
+  },
+  "homepage": "https://github.com/dancooper71/pro-mern-stack#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.15.3"
+  }
+}
